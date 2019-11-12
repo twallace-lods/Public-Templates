@@ -1,0 +1,18 @@
+#page0 h5{
+        font-weight: bold;
+        font-size: 20px;
+        text-align: center;
+}
+
+# !INSTRUCTIONS[][challenge-name]
+<br>
+
+  
+> This hands-on lab has been designed to help you acquire and verify the baseline skills and knowledge you need to successfully complete the  following challenge series: 
+>
+> ##### !INSTRUCTIONS[][series-name]
+
+
+> [challenge-name]: Getting Started with Stuff
+
+> [series-name]: My Super Cool Series!
