@@ -2,7 +2,7 @@
 <br>
 
 <details>
-<summary class=button>Challenge Overview</summary>
+<summary class=overviewbutton>Challenge Overview</summary>
   
 !INSTRUCTIONS[][overview]
 
