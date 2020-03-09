@@ -2,4 +2,4 @@
 
 :::
 
-!INSTRUCTIONS[](./base-homepage.md)
+!INSTRUCTIONS[](./base-homepage-nodetails.md)
